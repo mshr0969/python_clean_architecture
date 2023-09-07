@@ -5,7 +5,7 @@
 クリーンアーキテクチャについての簡単なメモ。基本的には[Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.kadokawa.co.jp/product/301806000678/)に沿っている。
 
 #### 以下の図が有名
-![クリーンアーキテクチャ](crean_architecture.jpg)
+![クリーンアーキテクチャ](clean_architecture.jpg)
 
 ## 依存性
 **ソースコードの依存性は円の内側だけに向かう。**
